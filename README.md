@@ -1,1 +1,1 @@
-"# Compositional Video Gen" 
+# Compositional Video Gen
