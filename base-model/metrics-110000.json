@@ -1,0 +1,21 @@
+{
+  "step": 110000,
+  "fid_score": 0.38471508026123047,
+  "test_loss": 0.031692024320364,
+  "mse_loss": 0.031692024320364,
+  "mae_loss": 0.1056571900844574,
+  "goals": [
+    "move green can near 7up can",
+    "close middle drawer"
+  ],
+  "timestamp": 1757325228.550329,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 110000
+}

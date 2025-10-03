@@ -1,0 +1,23 @@
+{
+  "step": 30000,
+  "fid_score": 0.2705848217010498,
+  "test_loss": 0.10292074084281921,
+  "mse_loss": 0.10292074084281921,
+  "mae_loss": 0.2601446211338043,
+  "goals": [
+    "close top drawer",
+    "close middle drawer",
+    "pick apple from white bowl",
+    "move sponge near green jalapeno chip bag"
+  ],
+  "timestamp": 1759175129.1292021,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 30000
+}

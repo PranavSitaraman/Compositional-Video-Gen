@@ -1,0 +1,23 @@
+{
+  "step": 24000,
+  "fid_score": 0.3823730945587158,
+  "test_loss": 0.11698314547538757,
+  "mse_loss": 0.11698314547538757,
+  "mae_loss": 0.27751460671424866,
+  "goals": [
+    "pick apple from white bowl",
+    "move pepsi can near rxbar blueberry",
+    "place water bottle upright",
+    "pick banana from white bowl"
+  ],
+  "timestamp": 1759172772.8592668,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 24000
+}

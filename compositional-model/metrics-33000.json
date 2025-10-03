@@ -1,0 +1,23 @@
+{
+  "step": 33000,
+  "fid_score": 0.29274511337280273,
+  "test_loss": 0.10090263932943344,
+  "mse_loss": 0.10090263932943344,
+  "mae_loss": 0.26753613352775574,
+  "goals": [
+    "pick banana from white bowl",
+    "place orange can upright",
+    "place pepsi can upright",
+    "pick orange from white bowl"
+  ],
+  "timestamp": 1759176311.6353526,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 33000
+}

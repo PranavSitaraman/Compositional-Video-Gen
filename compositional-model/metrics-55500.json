@@ -1,0 +1,23 @@
+{
+  "step": 55500,
+  "fid_score": 0.2793186902999878,
+  "test_loss": 0.07653508335351944,
+  "mse_loss": 0.07653508335351944,
+  "mae_loss": 0.22773770987987518,
+  "goals": [
+    "pick blue plastic bottle from middle drawer and place on counter",
+    "place water bottle upright",
+    "close bottom drawer",
+    "place brown chip bag into bottom drawer"
+  ],
+  "timestamp": 1759217122.4514794,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 55500
+}

@@ -1,0 +1,23 @@
+{
+  "step": 45000,
+  "fid_score": 0.23767244815826416,
+  "test_loss": 0.11352310329675674,
+  "mse_loss": 0.11352309584617615,
+  "mae_loss": 0.28124985098838806,
+  "goals": [
+    "close top drawer",
+    "place redbull can into bottom drawer",
+    "close top drawer",
+    "knock 7up can over"
+  ],
+  "timestamp": 1759181043.1947398,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 45000
+}

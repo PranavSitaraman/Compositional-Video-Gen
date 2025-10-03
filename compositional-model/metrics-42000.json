@@ -1,0 +1,23 @@
+{
+  "step": 42000,
+  "fid_score": 0.2144167423248291,
+  "test_loss": 0.10419077426195145,
+  "mse_loss": 0.10419077426195145,
+  "mae_loss": 0.2657998502254486,
+  "goals": [
+    "move redbull can near green jalapeno chip bag",
+    "place green jalapeno chip bag into bottom drawer",
+    "place pepsi can into top drawer",
+    "pick sponge from middle drawer and place on counter"
+  ],
+  "timestamp": 1759179860.39876,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 42000
+}

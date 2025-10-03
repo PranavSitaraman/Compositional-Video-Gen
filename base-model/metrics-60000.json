@@ -1,0 +1,21 @@
+{
+  "step": 60000,
+  "fid_score": 0.264410138130188,
+  "test_loss": 0.04631879925727844,
+  "mse_loss": 0.046318795531988144,
+  "mae_loss": 0.1273564249277115,
+  "goals": [
+    "close bottom drawer",
+    "pick 7up can from top shelf of fridge"
+  ],
+  "timestamp": 1757300521.6714513,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 60000
+}

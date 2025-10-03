@@ -1,0 +1,21 @@
+{
+  "step": 117500,
+  "fid_score": 0.31214338541030884,
+  "test_loss": 0.035385094583034515,
+  "mse_loss": 0.03538509085774422,
+  "mae_loss": 0.11071795225143433,
+  "goals": [
+    "place pepsi can into top drawer",
+    "pick sponge from middle drawer and place on counter"
+  ],
+  "timestamp": 1757328877.6271842,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 117500
+}

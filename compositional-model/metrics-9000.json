@@ -1,0 +1,23 @@
+{
+  "step": 9000,
+  "fid_score": 0.28690147399902344,
+  "test_loss": 0.05029721185564995,
+  "mse_loss": 0.05029721185564995,
+  "mae_loss": 0.17648367583751678,
+  "goals": [
+    "pick apple from white bowl",
+    "pick orange from bottom drawer and place on counter",
+    "pick orange from top drawer and place on counter",
+    "place green can into top drawer"
+  ],
+  "timestamp": 1759166378.198217,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 9000
+}

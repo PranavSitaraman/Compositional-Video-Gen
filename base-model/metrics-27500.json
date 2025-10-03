@@ -1,0 +1,21 @@
+{
+  "step": 27500,
+  "fid_score": 0.3516503572463989,
+  "test_loss": 0.038900118321180344,
+  "mse_loss": 0.038900118321180344,
+  "mae_loss": 0.11232692003250122,
+  "goals": [
+    "pick rxbar blueberry from top drawer and place on counter",
+    "move orange near redbull can"
+  ],
+  "timestamp": 1757284760.1148243,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 27500
+}

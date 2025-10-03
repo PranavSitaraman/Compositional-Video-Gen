@@ -1,0 +1,21 @@
+{
+  "step": 45000,
+  "fid_score": 0.2722156047821045,
+  "test_loss": 0.03372858092188835,
+  "mse_loss": 0.03372858092188835,
+  "mae_loss": 0.10485362261533737,
+  "goals": [
+    "place orange into top drawer",
+    "pick orange from white bowl"
+  ],
+  "timestamp": 1757293241.9057384,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 45000
+}

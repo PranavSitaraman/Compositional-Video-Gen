@@ -1,0 +1,21 @@
+{
+  "step": 35000,
+  "fid_score": 0.2877023220062256,
+  "test_loss": 0.048179030418395996,
+  "mse_loss": 0.048179030418395996,
+  "mae_loss": 0.12927979230880737,
+  "goals": [
+    "open left fridge door",
+    "pick rxbar blueberry"
+  ],
+  "timestamp": 1757288393.601965,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 35000
+}

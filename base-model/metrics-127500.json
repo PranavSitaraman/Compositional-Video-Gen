@@ -1,0 +1,21 @@
+{
+  "step": 127500,
+  "fid_score": 0.2832801938056946,
+  "test_loss": 0.04090442135930061,
+  "mse_loss": 0.04090442135930061,
+  "mae_loss": 0.12266287952661514,
+  "goals": [
+    "place water bottle upright",
+    "pick banana from white bowl"
+  ],
+  "timestamp": 1757333746.5862226,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 127500
+}

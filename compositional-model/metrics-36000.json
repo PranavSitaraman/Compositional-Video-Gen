@@ -1,0 +1,23 @@
+{
+  "step": 36000,
+  "fid_score": 0.2502005100250244,
+  "test_loss": 0.09124911576509476,
+  "mse_loss": 0.09124911576509476,
+  "mae_loss": 0.24241136014461517,
+  "goals": [
+    "move sponge near pepsi can",
+    "place blue plastic bottle upright",
+    "place green can upright",
+    "move blue plastic bottle near pepsi can"
+  ],
+  "timestamp": 1759177494.4384007,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 36000
+}

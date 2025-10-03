@@ -1,0 +1,23 @@
+{
+  "step": 34500,
+  "fid_score": 0.23307371139526367,
+  "test_loss": 0.13901759684085846,
+  "mse_loss": 0.13901761174201965,
+  "mae_loss": 0.32283011078834534,
+  "goals": [
+    "pick brown chip bag from middle drawer and place on counter",
+    "pick orange from top drawer and place on counter",
+    "close bottom drawer",
+    "pick 7up can from top shelf of fridge"
+  ],
+  "timestamp": 1759176900.844222,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 34500
+}

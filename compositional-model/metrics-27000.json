@@ -1,0 +1,23 @@
+{
+  "step": 27000,
+  "fid_score": 0.24944663047790527,
+  "test_loss": 0.15763166546821594,
+  "mse_loss": 0.15763166546821594,
+  "mae_loss": 0.34687456488609314,
+  "goals": [
+    "pick orange from white bowl",
+    "place green rice chip bag into bottom drawer",
+    "place rxbar chocolate into white bowl",
+    "pick green can from middle drawer and place on counter"
+  ],
+  "timestamp": 1759173952.1451936,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 27000
+}

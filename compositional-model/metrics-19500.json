@@ -1,0 +1,23 @@
+{
+  "step": 19500,
+  "fid_score": 0.27624082565307617,
+  "test_loss": 0.054596178233623505,
+  "mse_loss": 0.0545961819589138,
+  "mae_loss": 0.17922216653823853,
+  "goals": [
+    "close top drawer",
+    "move coke can near green jalapeno chip bag",
+    "open left fridge door",
+    "pick rxbar blueberry"
+  ],
+  "timestamp": 1759171000.7438495,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 19500
+}

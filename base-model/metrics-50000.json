@@ -1,0 +1,21 @@
+{
+  "step": 50000,
+  "fid_score": 0.2599095106124878,
+  "test_loss": 0.05150926858186722,
+  "mse_loss": 0.051509272307157516,
+  "mae_loss": 0.13124288618564606,
+  "goals": [
+    "place apple into middle drawer",
+    "place green jalapeno chip bag into bottom drawer"
+  ],
+  "timestamp": 1757295673.6576934,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 50000
+}

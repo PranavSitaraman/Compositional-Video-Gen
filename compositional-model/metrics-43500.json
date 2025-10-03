@@ -1,0 +1,23 @@
+{
+  "step": 43500,
+  "fid_score": 0.32231998443603516,
+  "test_loss": 0.0823705792427063,
+  "mse_loss": 0.0823705717921257,
+  "mae_loss": 0.23179049789905548,
+  "goals": [
+    "move water bottle near redbull can",
+    "open top drawer",
+    "open middle drawer",
+    "close middle drawer"
+  ],
+  "timestamp": 1759180452.9826689,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 43500
+}

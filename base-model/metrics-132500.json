@@ -1,0 +1,21 @@
+{
+  "step": 132500,
+  "fid_score": 0.21806228160858154,
+  "test_loss": 0.03183925151824951,
+  "mse_loss": 0.03183924779295921,
+  "mae_loss": 0.09510355442762375,
+  "goals": [
+    "close bottom drawer",
+    "place brown chip bag into bottom drawer"
+  ],
+  "timestamp": 1757355677.9593034,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 132500
+}

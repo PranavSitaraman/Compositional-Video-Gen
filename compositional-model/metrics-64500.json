@@ -1,0 +1,23 @@
+{
+  "step": 64500,
+  "fid_score": 0.2896382808685303,
+  "test_loss": 0.08684387803077698,
+  "mse_loss": 0.08684387803077698,
+  "mae_loss": 0.22784475982189178,
+  "goals": [
+    "place redbull can into bottom drawer",
+    "move rxbar chocolate near rxbar blueberry",
+    "move apple near coke can",
+    "place redbull can into top drawer"
+  ],
+  "timestamp": 1759221559.6846457,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 64500
+}

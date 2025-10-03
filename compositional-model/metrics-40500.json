@@ -1,0 +1,23 @@
+{
+  "step": 40500,
+  "fid_score": 0.2709074020385742,
+  "test_loss": 0.11558695882558823,
+  "mse_loss": 0.11558696627616882,
+  "mae_loss": 0.28270214796066284,
+  "goals": [
+    "pick 7up can from top drawer and place on counter",
+    "place water bottle into top drawer",
+    "place water bottle into middle drawer",
+    "move green jalapeno chip bag near brown chip bag"
+  ],
+  "timestamp": 1759179269.5120625,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 40500
+}

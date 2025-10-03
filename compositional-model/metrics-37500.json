@@ -1,0 +1,23 @@
+{
+  "step": 37500,
+  "fid_score": 0.25720906257629395,
+  "test_loss": 0.08903705328702927,
+  "mse_loss": 0.08903706073760986,
+  "mae_loss": 0.2438260316848755,
+  "goals": [
+    "move sponge near orange",
+    "pick orange from middle drawer and place on counter",
+    "move green can near 7up can",
+    "close middle drawer"
+  ],
+  "timestamp": 1759178088.8206666,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 37500
+}

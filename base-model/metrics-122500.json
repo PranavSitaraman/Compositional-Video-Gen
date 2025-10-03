@@ -1,0 +1,21 @@
+{
+  "step": 122500,
+  "fid_score": 0.24688273668289185,
+  "test_loss": 0.05033024400472641,
+  "mse_loss": 0.050330232828855515,
+  "mae_loss": 0.12366881221532822,
+  "goals": [
+    "close top drawer",
+    "knock 7up can over"
+  ],
+  "timestamp": 1757331308.9957402,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 122500
+}

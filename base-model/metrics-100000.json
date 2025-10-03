@@ -1,0 +1,21 @@
+{
+  "step": 100000,
+  "fid_score": 0.30341005325317383,
+  "test_loss": 0.025285834446549416,
+  "mse_loss": 0.025285834446549416,
+  "mae_loss": 0.08683127909898758,
+  "goals": [
+    "move orange near pepsi can",
+    "pick green can from bottom drawer and place on counter"
+  ],
+  "timestamp": 1757320382.5507195,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 100000
+}

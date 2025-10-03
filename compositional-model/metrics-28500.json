@@ -1,0 +1,23 @@
+{
+  "step": 28500,
+  "fid_score": 0.2550623416900635,
+  "test_loss": 0.09786881506443024,
+  "mse_loss": 0.09786880761384964,
+  "mae_loss": 0.2508721649646759,
+  "goals": [
+    "place green rice chip bag into bottom drawer",
+    "pick blue plastic bottle",
+    "place apple into middle drawer",
+    "place green jalapeno chip bag into bottom drawer"
+  ],
+  "timestamp": 1759174542.3218036,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 28500
+}

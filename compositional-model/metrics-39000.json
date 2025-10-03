@@ -1,0 +1,23 @@
+{
+  "step": 39000,
+  "fid_score": 0.2043980360031128,
+  "test_loss": 0.16080708801746368,
+  "mse_loss": 0.16080708801746368,
+  "mae_loss": 0.346216082572937,
+  "goals": [
+    "pick orange from top drawer and place on counter",
+    "move green rice chip bag near green jalapeno chip bag",
+    "knock orange can over",
+    "place green can into top drawer"
+  ],
+  "timestamp": 1759178680.0747335,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 39000
+}

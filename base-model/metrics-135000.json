@@ -1,0 +1,21 @@
+{
+  "step": 135000,
+  "fid_score": 0.27422720193862915,
+  "test_loss": 0.04206513985991478,
+  "mse_loss": 0.04206513985991478,
+  "mae_loss": 0.10848984122276306,
+  "goals": [
+    "pick pepsi can",
+    "open bottom drawer"
+  ],
+  "timestamp": 1757356880.1841702,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 135000
+}

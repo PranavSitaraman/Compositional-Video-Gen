@@ -1,0 +1,23 @@
+{
+  "step": 15000,
+  "fid_score": 0.2831385135650635,
+  "test_loss": 0.10824188590049744,
+  "mse_loss": 0.10824188590049744,
+  "mae_loss": 0.2664957344532013,
+  "goals": [
+    "knock water bottle over",
+    "move blue chip bag near paper bowl",
+    "pick rxbar blueberry from top drawer and place on counter",
+    "move orange near redbull can"
+  ],
+  "timestamp": 1759169233.378343,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 15000
+}

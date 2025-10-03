@@ -1,0 +1,21 @@
+{
+  "step": 147500,
+  "fid_score": 0.2877260446548462,
+  "test_loss": 0.04006188362836838,
+  "mse_loss": 0.040061887353658676,
+  "mae_loss": 0.11890143901109695,
+  "goals": [
+    "move apple near coke can",
+    "place redbull can into top drawer"
+  ],
+  "timestamp": 1757362925.3312595,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 147500
+}

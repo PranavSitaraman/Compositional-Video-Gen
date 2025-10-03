@@ -1,0 +1,23 @@
+{
+  "step": 49500,
+  "fid_score": 0.30750882625579834,
+  "test_loss": 0.13518181443214417,
+  "mse_loss": 0.13518181443214417,
+  "mae_loss": 0.29268020391464233,
+  "goals": [
+    "move pepsi can near water bottle",
+    "place orange can upright",
+    "pick green jalapeno chip bag",
+    "pick water bottle from middle drawer and place on counter"
+  ],
+  "timestamp": 1759210825.8932364,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 49500
+}

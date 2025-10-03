@@ -1,0 +1,23 @@
+{
+  "step": 16500,
+  "fid_score": 0.29343318939208984,
+  "test_loss": 0.1308455616235733,
+  "mse_loss": 0.1308455616235733,
+  "mae_loss": 0.2945931851863861,
+  "goals": [
+    "pick apple",
+    "move green can near apple",
+    "pick water bottle",
+    "place apple into bottom drawer"
+  ],
+  "timestamp": 1759169822.8715687,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 16500
+}

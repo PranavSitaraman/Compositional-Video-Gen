@@ -1,0 +1,21 @@
+{
+  "step": 112500,
+  "fid_score": 0.2583248019218445,
+  "test_loss": 0.033452194184064865,
+  "mse_loss": 0.033452194184064865,
+  "mae_loss": 0.0992109403014183,
+  "goals": [
+    "knock orange can over",
+    "place green can into top drawer"
+  ],
+  "timestamp": 1757326451.7429056,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 112500
+}

@@ -1,0 +1,21 @@
+{
+  "step": 125000,
+  "fid_score": 0.24585449695587158,
+  "test_loss": 0.047560494393110275,
+  "mse_loss": 0.047560498118400574,
+  "mae_loss": 0.12180804461240768,
+  "goals": [
+    "move orange near rxbar blueberry",
+    "move green rice chip bag near sponge"
+  ],
+  "timestamp": 1757332532.5715365,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 125000
+}

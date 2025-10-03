@@ -1,0 +1,21 @@
+{
+  "step": 92500,
+  "fid_score": 0.2930062413215637,
+  "test_loss": 0.02804342657327652,
+  "mse_loss": 0.02804342657327652,
+  "mae_loss": 0.09159845113754272,
+  "goals": [
+    "place rxbar chocolate into white bowl",
+    "pick green can from middle drawer and place on counter"
+  ],
+  "timestamp": 1757316760.6653533,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 92500
+}

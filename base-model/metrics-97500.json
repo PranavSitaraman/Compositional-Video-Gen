@@ -1,0 +1,21 @@
+{
+  "step": 97500,
+  "fid_score": 0.36351698637008667,
+  "test_loss": 0.03790634498000145,
+  "mse_loss": 0.03790634498000145,
+  "mae_loss": 0.12349792569875717,
+  "goals": [
+    "pick apple from white bowl",
+    "move sponge near green jalapeno chip bag"
+  ],
+  "timestamp": 1757319172.044104,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 97500
+}

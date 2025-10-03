@@ -1,0 +1,21 @@
+{
+  "step": 130000,
+  "fid_score": 0.23817205429077148,
+  "test_loss": 0.021366190165281296,
+  "mse_loss": 0.021366188302636147,
+  "mae_loss": 0.08022759109735489,
+  "goals": [
+    "pick green jalapeno chip bag",
+    "pick water bottle from middle drawer and place on counter"
+  ],
+  "timestamp": 1757354467.8144546,
+  "image_shape": [
+    32,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 2,
+  "num_frames": 8,
+  "model_step": 130000
+}

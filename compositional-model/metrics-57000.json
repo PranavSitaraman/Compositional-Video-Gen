@@ -1,0 +1,23 @@
+{
+  "step": 57000,
+  "fid_score": 0.27531397342681885,
+  "test_loss": 0.07646823674440384,
+  "mse_loss": 0.07646823674440384,
+  "mae_loss": 0.22645194828510284,
+  "goals": [
+    "pick banana from white bowl",
+    "knock 7up can over",
+    "pick pepsi can",
+    "open bottom drawer"
+  ],
+  "timestamp": 1759217863.9398007,
+  "image_shape": [
+    64,
+    3,
+    64,
+    64
+  ],
+  "batch_size": 4,
+  "num_frames": 8,
+  "model_step": 57000
+}
